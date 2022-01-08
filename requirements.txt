@@ -1,0 +1,12 @@
+pygame
+times
+random2
+opencv-python
+easygui
+numpy
+imageio
+os-sys
+matplotlib
+tk
+pillow
+keras-models
